@@ -1,0 +1,1 @@
+guess = int(input("type your input: "))
